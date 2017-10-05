@@ -1,5 +1,7 @@
 [meta title:"new-idyll-tests" description:"Short description of your project" /]
 
+[var name:"ben" value:38 /]
+
 [Header
   title:"new-idyll-tests"
   subtitle:"Welcome to Literasee, powered by Idyll"
@@ -30,3 +32,5 @@ function thisIsSoEasy() {
 ```
 
 Yaaaaaayyyyyyy!!!!!!
+
+Woohooo [Display var:ben /]
